@@ -1,0 +1,2 @@
+# Customer-Segmentation
+this is a real dataset containing anonymized customer transactions from an online retailer.  I've applied practical customer behavioral analytics and segmentation techniques.  first I've build easy to interpret customer segments. On top of that, I prepared the segments that created, making them ready for machine learning.  Finally I made  segments more powerful with k-means clustering to identify similar groups of customers based on their purchasing behavior
